@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://120.27.25.21:80/service/ios-cqzh-for-bsh.ipa</string>
+                                        <string>http://139.129.35.52:80/service/ios-cqzh-for-bsh.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -19,15 +19,15 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://120.27.25.21:80/service/CQZHClient.png</string>
+                                        <string>http://139.129.35.52:80/service/CQZHClient.png</string>
                                  </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.cqzh.bak</string>
+                                <string>com.cqzh</string>
                                 <key>bundle-version</key>
-                                <string>0.0.1</string>
+                                <string>1.9</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
